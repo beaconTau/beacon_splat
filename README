@@ -4,7 +4,7 @@ You will need splat (it's in Fedora and Ubuntu repos, but you can also obtain it
 
 download_data.sh downloads nearby data from beacon (requires wget, unzip and srtm2sdf to be in path, the latter is part of splat) 
 
-Then run.sh calculates power loss contours from beacon. 
+Then run.sh calculates/plots power loss contours from beacon. You need splat and convert to be in the path (convert is used to convert from ppm to png). 
 
 
 
