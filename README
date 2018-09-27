@@ -1,0 +1,10 @@
+SPLAT setup for beacon 
+
+You will need splat (it's in Fedora and Ubuntu repos, but you can also obtain it from https://www.qsl.net/kd2bd/splat.html) 
+
+download_data.sh downloads nearby data from beacon (requires wget, unzip and srtm2sdf to be in path, the latter is part of splat) 
+
+Then run.sh calculates power loss contours from beacon. 
+
+
+
