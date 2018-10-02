@@ -32,5 +32,5 @@ ORIGDIR=`pwd`
 
 cd sdf-hd 
 for i in  ${ORIGDIR}/srtm-hd/*.hgt; do
-  srtm2sdf $i;
+  srtm2sdf-hd $i;
 done
